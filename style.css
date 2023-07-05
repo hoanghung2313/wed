@@ -1,0 +1,343 @@
+header {
+  width: 100%;
+  border-bottom: 1px solid grey;
+ 
+}
+header .content_nav a {
+  color: black;
+  font-size: 15px;
+  
+}
+header .content_nav .left {
+  float: left;
+ margin-right: 700px;
+ border-right: 1px solid gray;
+}
+header .content_nav .right {
+  border-right: 1px solid gray;
+}
+header .content_nav .left .left_content {
+  border-left: 1px solid gray;
+  border-right:1px solid gray ;
+}
+header .content_nav .right .right_content{
+  border-right:1px solid gray ;
+  border-left:1px solid gray ;
+}
+header .content_nav .right .right_nav{
+  border-right:1px solid gray ;
+}
+#logo {
+  width: 100%;
+}
+#logo .logo_nav .logo_left {
+   float: left;
+  
+}
+#logo .logo_nav .logo_right {
+padding-left: 100px;}
+#logo .logo_nav .logo_right i {
+  float: left;
+  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  border: 2px solid green ;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 15px;
+  color: green;
+
+}
+#logo .logo_nav .logo_right h6 {
+  color: green;
+  padding-left: 15px;
+  font-size: 15px;
+}
+#logo .logo_nav .logo_right .text_logo{
+  float: left;
+  padding-top:20px ;
+}
+#logo .logo_nav .logo_right p {
+  padding-left: 15px;
+  font-size: 15px;
+  color: black;
+}
+#logo .logo_nav .logo_right i {
+  float: left;
+}
+ .navbar_content .content_navbar .navbar{
+  width: 100%;
+  
+ }
+ .navbar_content .content_navbar 
+ .navbar .nav-item a {
+  color: aliceblue;
+  text-align: center;
+  font-size: 15px;
+  
+ }
+  .navbar_content .content_navbar 
+ .navbar .nav-item .dropdown-menu {
+  background-color: black;
+ }
+ .navbar_content .content_navbar 
+ .search_content{
+  margin-left: 500px;
+ }
+ .navbar_content .content_navbar 
+ .navbar .nav-item ul{
+  width: 100%;
+  height: 100px;
+ }
+.porocheck {
+  padding-top: 20px;
+  margin-left: 50px;
+}
+.porocheck .carousel-inner .img_thumd {
+  padding-left: 100px;
+  line-height: 100px;
+  width: 100%;
+  margin: auto;
+}
+.porocheck  .carousel-indicators li{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%  ;
+}
+.setion{
+  margin-left: 50px;
+}
+.setion .setion_conten{
+  width: 25%;
+}
+.setion .setion_conten h4 {
+ border-bottom: 2px solid green;
+ width: auto;
+ font-size: 20px;
+  
+}
+.setion .setion_conten i {
+  text-align: left;
+  color: green;
+}
+.setion_img img{
+  width: 120px;
+  height: 150px;
+  float: left;
+  margin-right: 20px;
+}
+
+.setion .setion_text a {
+  color: green;
+}
+.setion .setion_text span:first-of-type {
+  color: green;
+
+}
+.setion .setion_text span:last-of-type  {
+  text-decoration: line-through;
+}
+.setion .setion {
+  float: left
+}
+.list{
+  width: 25%;
+}
+.list .intem {
+    float: left;
+    
+    padding: 40px;
+}
+.list .intem .tesx {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    border-radius: 20px;    
+}
+
+
+.list .thuneo img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.list  .intem .tesx  .thuneo  {
+    position: relative;
+}
+.list  .intem .tesx  .thuneo img {
+  float: left;
+  width: 25%;
+}
+#logo .logo_nav .logo_right {
+  margin-top: 40px;
+}
+#logo .logo_nav .logo_right .truck_icon i {
+   margin-top: 20px;
+}
+.search_menu .letf_item {
+  padding-left: 50px;
+
+}
+.search_menu .letf_item li {
+  border-left: 1px solid gray;
+ 
+}
+.search_menu .letf_item li a {
+  color: white !important;
+}
+.search_menu .right_item {
+  padding-left: 400px;
+}
+.bars .icon_bars i {
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    padding-right: 20px;
+    color: white;
+  }
+  .bars .nav-item .icon_bars{
+    background-color:#66a182;
+  }
+  .bars .container .bars_content {
+  width: 25%;
+  margin-top: 50px;
+  float: left;
+}
+.bars .container .bars_content ul {
+background-color: #464646;
+
+}
+.bars .container .bars_content li {
+box-shadow: 0 1px 0 #acacac  ;
+}
+.bars .container .bars_content li a {
+  color: antiquewhite;
+}
+.img__thumd img {
+  box-sizing: border-box;
+  padding: 50px;
+  height: 450px;
+  width: 827px;
+}
+.carousel .item .carousel_img img {
+  width: 120px;
+ margin-left: 100px;
+ float: left;
+ margin-right: 20px;
+}
+.card_content .card{
+  width: 100px;
+}
+.card_content .card img {
+height: 230px;
+width: 190px;
+
+}
+ .content_menu h1 {
+  font-size: 20px;
+  margin-left: 100px;
+  color: green; 
+  display: inline;
+  border-bottom:2px solid green ;
+}
+.content_menu i {
+  color: green;
+}
+.carousel .item .carousel_text h2{
+  font-size: 15px;
+ 
+  color: green;
+}
+.carousel .item .carousel_text {
+  padding-top: 20px;
+ margin-left: 20px;
+ MARGIN-BOTTOM: 50px;
+}
+.carousel .item .carousel_text span:first-of-type {
+  display: block;
+  color: green;
+  padding-right: 20px;
+}
+.carousel .item .carousel_text span:last-of-type{
+  text-decoration: line-through;
+  color: rgb(145, 138, 138);
+}
+.carousel {
+ float: left;
+ width: 30%;
+}
+
+
+.carousel_right .card_content {
+  float: left;
+  width: 70%;
+}
+.carousel_right .card_content .card{
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 25%;
+  border: none;
+}
+.carousel_right .card_content .card .card-body h2   {
+  font-size: 15px;
+  /* padding-left: 20px; */
+  color: green; 
+}
+.carousel_right .card-body span:first-of-type{
+  padding-right: 20px;
+float: left;
+/* margin-left: 20px; */
+
+}
+.carousel_right .card-body span:last-of-type{
+text-decoration: line-through;
+color: rgb(145, 138, 138);
+}
+footer {
+ display: inline;
+
+}
+.footer_text{
+  width: 100%;
+  padding-top: 50px;
+  background-color: #0e0d0d;
+}
+.itemfooter .r i {
+  border: 2px solid green;
+ width: 40px;
+ height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 10px;
+  color: forestgreen;
+}
+.itemfooter .r {
+  margin-top: 10px;
+}
+.itemfooter .r a {
+  color: #acacac;
+}
+.itemfooter .r span{
+  color: #acacac;
+}
+.footer_ul {
+  margin-left: 100px;
+}
+ ul h4 {
+  color:#d6d3d3 ;
+  padding-top: 30px;
+  font-size: 17px;
+  padding-bottom: 20px;
+}
+.list_menu li {
+  list-style: none;
+  color: #acacac;
+  padding-bottom: 20px;
+  font-size: 15px;
+}
+.list_menu {
+  margin-left: 0px;
+  padding-right: 50px;
+}
